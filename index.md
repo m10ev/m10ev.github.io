@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## ARW's Games
 
-You can use the [editor on GitHub](https://github.com/m10ev/m10ev.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# "3D Game Test" (Naming in progress)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+3D Game Test is a parkour style game in whitch you use a grappling hook to navigate through levels.
 
-### Markdown
+**!The game is still in development!**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Update Log 
 
-```markdown
-Syntax highlighted code block
+1. Added Power Ups
+   1. Jump Boost - 1.4x Character size and jump   
+   1. Speed Boost - 2x Speed
 
-# Header 1
-## Header 2
-### Header 3
+2. Respawn and Death
 
-- Bulleted
-- List
+3. Start Screen
 
-1. Numbered
-2. List
+4. Added a menu (Not working on level 2 and 3 debugging in progress)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Update Gallery
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Jump Boost](https://github.com/m10ev/m10ev.github.io/blob/main/images/3D%20game%20test%2016.1.2021%20%D0%B3.%2014_35_55.png)
 
-### Jekyll Themes
+![Speed Boost](https://github.com/m10ev/m10ev.github.io/blob/main/images/3D%20game%20test%2016.1.2021%20%D0%B3.%2014_40_33.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/m10ev/m10ev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Start Screen](https://github.com/m10ev/m10ev.github.io/blob/main/images/3D%20game%20test%2016.1.2021%20%D0%B3.%2014_41_28.png)
 
-### Support or Contact
+# Videos
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check my [Youtube Channel](https://www.youtube.com/channel/UC7LkAn-t5wo2rUwMPs5SxYA) for gameplay and update videos
+
+# Downloads
+
+**NEXT UPDATE**
+
+
+# Support me
+
+Support me on [Patreon](https://www.patreon.com/agentricewatergames)
