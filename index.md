@@ -21,11 +21,11 @@
 
 ## Update Gallery
 
-![Jump Boost](/images/JumpBoost.png)
+![Jump Boost](https://github.com/m10ev/m10ev.github.io/blob/main/images/TitleScreen.png)
 
-![Speed Boost](/images/SpeedBoost.png)
+![Speed Boost](https://github.com/m10ev/m10ev.github.io/blob/main/images/TitleScreen.png)
 
-![Start Screen](/images/TitleScreen.png)
+![Start Screen](https://github.com/m10ev/m10ev.github.io/blob/main/images/TitleScreen.png)
 
 # Videos
 
