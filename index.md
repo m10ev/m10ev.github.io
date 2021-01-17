@@ -21,11 +21,11 @@
 
 ## Update Gallery
 
-![Jump Boost](https://github.com/m10ev/m10ev.github.io/blob/main/images/3D%20game%20test%2016.1.2021%20%D0%B3.%2014_35_55.png)
+![Jump Boost](/images/JumpBoost.png)
 
-![Speed Boost](https://github.com/m10ev/m10ev.github.io/blob/main/images/3D%20game%20test%2016.1.2021%20%D0%B3.%2014_40_33.png)
+![Speed Boost](/images/SpeedBoost.png)
 
-![Start Screen](https://github.com/m10ev/m10ev.github.io/blob/main/images/3D%20game%20test%2016.1.2021%20%D0%B3.%2014_41_28.png)
+![Start Screen](/images/TitleScreen.png)
 
 # Videos
 
