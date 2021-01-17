@@ -21,9 +21,9 @@
 
 ## Update Gallery
 
-![Jump Boost](/images/TitleScreen.png)
+![Jump Boost](/images/JumpBoost.png)
 
-![Speed Boost](/images/TitleScreen.png)
+![Speed Boost](/images/SpeedBoost.png)
 
 ![Start Screen](/images/TitleScreen.png)
 
