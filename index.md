@@ -1,40 +1,95 @@
-## ARW's Games
+## Михаил Тенев's Projects
 
-# "3D Game Test" (Naming in progress)
+# "Library Management System"
 
-3D Game Test is a parkour style game in whitch you use a grappling hook to navigate through levels.
+The Library Management System is a multi-interface software application built as a final course project for **Module 7: Software Development** in the National IT Career Program.
 
-**!The game is still in development!**
+The system manages books, authors, library members, and borrowed book history through both a **console** and **web interface**.
 
-# Update Log 
+**!This project is completed and serves as a portfolio example!**
 
-1. Added Power Ups
-   1. Jump Boost - 1.4x Character size and jump   
-   1. Speed Boost - 2x Speed
+---
 
-2. Respawn and Death
+# 📋 Project Features
 
-3. Start Screen
+- Console and ASP.NET Core MVC user interfaces
+- Multi-layer architecture (Data, Business, Presentation)
+- Seeding for testing/demo data
+- Async CRUD operations using Entity Framework Core
+- Custom UI with Razor views
+- In-Memory database tests using NUnit
 
-4. Added a menu (Not working on level 2 and 3 debugging in progress)
+---
 
+# 🧱 Architecture
 
-## Update Gallery
+1. **Data Layer**
+   - Models: `Book`, `Author`, `Member`, `BorrowedBook`
+   - Context: `LibraryDbContext`
+   - Enum Support: `Genre`
 
-![Jump Boost](/images/JumpBoost.png)
+2. **Business Layer**
+   - Async CRUD logic for all models
+   - Shared by both console and web interfaces
 
-![Speed Boost](/images/SpeedBoost.png)
+3. **Presentation Layer (Console)**
+   - Display and Sub-Display classes for each entity
+   - Input validation and console menus
 
-![Start Screen](/images/TitleScreen.png)
+4. **Web Interface**
+   - Custom controllers and Razor views
+   - No scaffolding used
+   - JavaScript-based filters
+   - Image display for authors
+   - Search and filter by genre or ISBN
 
-# Videos
+5. **Testing**
+   - Unit tests with NUnit
+   - Code coverage tracking
+   - In-Memory EF Core for isolation
 
-Check my [Youtube Channel](https://www.youtube.com/channel/UC7LkAn-t5wo2rUwMPs5SxYA) for gameplay and update videos
+---
 
-# Downloads
+# 💻 Technologies
 
-**NEXT UPDATE**
+- **Languages:** C#, JavaScript
+- **Frameworks:** ASP.NET Core MVC, Entity Framework Core
+- **Testing:** NUnit, In-Memory DB, Coverlet
+- **IDE:** Visual Studio 2022
+- **Version Control:** GitHub
 
-# Support me
+---
 
-Support me on [Patreon](https://www.patreon.com/agentricewatergames)
+# 📷 Gallery
+
+![Console View](/images/console-menu.png)
+*Main menu of the console application.*
+
+![Books View](/images/books-page.png)
+*ASP.NET MVC books page with search and CRUD.*
+
+![Author Page](/images/author-details.png)
+*Detailed author page with biography and image.*
+
+---
+
+# 🚀 Future Improvements
+
+- Add user authentication and role management
+- Implement Windows Forms UI
+- Online borrowing and availability checking
+- Extend test coverage to full feature set
+
+---
+
+# 📌 Links
+
+- [National Program Site](https://it-kariera.mon.bg)
+- [Ministry of Education](https://www.mon.bg)
+- [GitHub Repository](https://github.com/YOUR_USERNAME/library-project)
+
+---
+
+# ✅ Conclusion
+
+This project was an excellent opportunity to apply real-world skills with .NET, EF Core, and multi-layer architecture. It demonstrates clean structure, UI flexibility, and practical testing — a solid example of a scalable software system.
