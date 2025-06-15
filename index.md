@@ -65,6 +65,9 @@ The system manages books, authors, library members, and borrowed book history th
 ![Console View](/images/console-menu.png)
 *Main menu of the console application.*
 
+![Books View](/images/main-page.png)
+*Main page of ASP.NET Interface*
+
 ![Books View](/images/books-page.png)
 *ASP.NET MVC books page with search and CRUD.*
 
@@ -86,7 +89,7 @@ The system manages books, authors, library members, and borrowed book history th
 
 - [National Program Site](https://it-kariera.mon.bg)
 - [Ministry of Education](https://www.mon.bg)
-- [GitHub Repository](https://github.com/YOUR_USERNAME/library-project)
+- [GitHub Repository](https://github.com/m10ev/LibraryManagementSystem)
 
 ---
 
