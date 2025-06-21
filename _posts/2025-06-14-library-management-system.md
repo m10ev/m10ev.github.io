@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Library Management System"
 date: 2025-06-14
 ---
