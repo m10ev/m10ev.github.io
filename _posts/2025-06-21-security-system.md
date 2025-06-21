@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Security-System"
 date: 2025-06-21
 ---
