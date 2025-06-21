@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Library Management System"
+date: 2025-06-14
+---
+
 ## Михаил Тенев's Projects
 
 # "Library Management System"
