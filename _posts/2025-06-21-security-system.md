@@ -22,10 +22,10 @@ An **Arduino-based security system** that uses a **4x4 keypad** and **16x2 LCD s
 ## 📷 System Schematics
 
 ### Thinkercad 
-![Electronical Schematic](images/ElectronicalSchema.png)
+![Electronical Schematic](/images/ElectronicalSchema.png)
 
 ### Electrical Schematic  
-![Electrical Schematic](images/ElectricalSchema.png)
+![Electrical Schematic](/images/ElectricalSchema.png)
 
 ## ⚙️ Hardware Components
 
