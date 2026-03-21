@@ -2,13 +2,16 @@
 import HeroSection from './components/HeroSection.vue'
 import ProjectSection from './components/ProjectSection.vue';
 import ContactSection from './components/ContactSection.vue';
+import GlowBackground from './components/GlowBackground.vue';
 </script>
 
 <template>
   <div id="app">
-    <HeroSection/>
-    <ProjectSection/>
-    <ContactSection/>
+    <GlowBackground>
+      <HeroSection/>
+      <ProjectSection/>
+      <ContactSection/>
+    </GlowBackground>
   </div>
 </template>
 
