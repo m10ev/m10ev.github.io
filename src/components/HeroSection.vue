@@ -17,7 +17,7 @@ const bio = 'A student passionate about building games and software. I work main
       <p class="text-gray-600 dark:text-white/50 max-w-xl text-lg leading-relaxed mb-10">
         {{ bio }}
       </p>
-      <div class="flex gap-4">
+      <div class="flex flex-wrap gap-4">
         <a
           href="#projects"
           class="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-lg font-medium transition-colors"
@@ -29,7 +29,7 @@ const bio = 'A student passionate about building games and software. I work main
           target="_blank"
           class="border border-gray-300 dark:border-white/20 hover:border-purple-500 text-gray-700 dark:text-white/70 hover:text-purple-500 dark:hover:text-white px-6 py-3 rounded-lg font-medium transition-colors"
         >
-          GitHub ↗
+          GitHub
         </a>
       </div>
     </div>
