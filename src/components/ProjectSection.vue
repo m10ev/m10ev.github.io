@@ -8,6 +8,7 @@ const pinnedRepos = [
   'Security-System',
   'CSharpSnake',
   'LibraryManagementSystem',
+  'PyClock'
 ]
 
 interface Repo {
